@@ -1,4 +1,27 @@
-## Accomplishments
+## About Me - My Hobbies
+
+### DJing 🎧
+
+I have a deep passion for music, particularly in **DJing**. It's not just about playing tracks; it's an art of blending rhythms, creating a journey through soundscapes, and connecting with the audience. Here's what I love about DJing:
+
+- **Creating Mixes**: Crafting seamless transitions between tracks, maintaining energy flow, and exploring various genres.
+- **Engaging with Music**: DJing allows me to explore music deeply, understanding nuances and appreciating the craft behind each track.
+- **Sharing Vibes**: There's nothing like seeing a crowd groove to the beats I play. It's a shared experience of joy and excitement.
+
+### Drumming 🥁
+
+Another hobby I'm deeply involved in is **drumming**. It's a physical, energetic, and expressive way to engage with music. Here's why I love it:
+
+- **Rhythmic Foundation**: As a drummer, I enjoy being the backbone of the music, providing the rhythm that guides the other instruments.
+- **Physical Activity**: Drumming is not just about rhythm; it's a physically engaging activity that requires coordination and energy.
+- **Expressiveness**: Through drumming, I can express emotions non-verbally. It's a powerful way to communicate feelings through music.
+
+---
+
+These hobbies reflect my love for music and rhythm. They're not just pastimes; they're integral parts of who I am, providing a creative outlet and a way to connect with others.
+
+
+## Class Accomplishments so far
 
 1. **Create a GitHub Repository**
     - Created a remote Git repository on GitHub.
