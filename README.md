@@ -41,3 +41,7 @@
     - Navigate to GitHub Settings → SSH and GPG keys → Add New SSH key.
     - Add a descriptive label for the key and paste your public key.
     - Click Add SSH key and confirm account access if prompted.
+
+#To Run Tests:
+
+`npm run test`
